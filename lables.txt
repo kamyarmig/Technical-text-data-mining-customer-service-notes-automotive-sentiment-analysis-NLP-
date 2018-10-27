@@ -1,0 +1,18 @@
+electrical	1
+PM      	2
+Dieelcetric test	3
+digger   	4
+vague    	5
+pedestol	6
+hydrolic 	7
+PDM	        8
+boom    	9
+unitdown	10
+cosmatic	11
+NDT test	12
+auger         	13
+winch    	14
+outrigger	15
+chassis 	16
+DOT globlize             17
+UCR              18
